@@ -1,8 +1,4 @@
-# Tanner Dyck's (65670747) Submission
-
-https://github.com/TannerDyck/UiWithUnity.git
-
-## Tanner's Demo Video
+# Tanner Dyck's (65670747) Demo Video
 
 https://youtu.be/9h24tjqZB0U
 
